@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="FPCPlugin.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="4"/>
+        <CursorPos Y="23"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="6">
+      <Position>
+        <Filename Value="FPCPlugin.lpr"/>
+        <Caret Line="165" Column="30" TopLine="152"/>
+      </Position>
+      <Position>
+        <Filename Value="FPCPlugin.lpr"/>
+        <Caret Line="167" Column="7" TopLine="148"/>
+      </Position>
+      <Position>
+        <Filename Value="FPCPlugin.lpr"/>
+        <Caret Line="198" Column="3" TopLine="167"/>
+      </Position>
+      <Position>
+        <Filename Value="FPCPlugin.lpr"/>
+        <Caret Line="167" Column="7" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="FPCPlugin.lpr"/>
+        <Caret Line="198" Column="3" TopLine="167"/>
+      </Position>
+      <Position>
+        <Filename Value="FPCPlugin.lpr"/>
+        <Caret Line="167" Column="18" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="FPCPlugin.lpr"/>
+        <Caret Line="28" Column="44"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,34 @@
+object frmMain: TfrmMain
+  Left = 349
+  Height = 300
+  Top = 153
+  Width = 400
+  BorderIcons = [biSystemMenu, biMinimize]
+  BorderStyle = bsSingle
+  Caption = 'VB Project (FPC)'
+  ClientHeight = 300
+  ClientWidth = 400
+  Color = clBtnFace
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'MS Sans Serif'
+  Position = poScreenCenter
+  LCLVersion = '2.2.0.0'
+  object txtVbProject: TMemo
+    Left = 8
+    Height = 250
+    Top = 8
+    Width = 384
+    ScrollBars = ssVertical
+    TabOrder = 0
+  end
+  object cmdClose: TButton
+    Left = 144
+    Height = 25
+    Top = 265
+    Width = 112
+    Caption = 'Close'
+    OnClick = cmdCloseClick
+    TabOrder = 1
+  end
+end
