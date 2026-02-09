@@ -112,7 +112,7 @@ end;
  vlNumber   - Form or module index (0 if not applicable)
  vlFnNumber - Function index (specifically for vlType 40-47)
 }
-procedure SetValue(vlType: Integer; vlNewValue: string; vlNumber: Integer = 0; vlFnNumber: Integer = 0);
+procedure SetValue(vlType: Integer; vlNewValue: String; vlNumber: Integer = 0; vlFnNumber: Integer = 0);
 var
   // Ensure we use an AnsiString variable so the memory remains valid during the call
   AnsiTemp: AnsiString;
@@ -199,3 +199,4 @@ Exports
 begin
   Application.Initialize;
 end.
+
